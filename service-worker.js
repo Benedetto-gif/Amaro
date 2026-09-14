@@ -8,7 +8,7 @@
  * l'app continua comunque a funzionare senza connessione.
  */
 
-const VERSIONE = 'amarobuilder-v1';
+const VERSIONE = 'amarobuilder-v4';
 
 const FILE = [
   './',
